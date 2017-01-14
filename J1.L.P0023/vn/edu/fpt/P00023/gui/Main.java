@@ -10,14 +10,13 @@ import vn.edu.fpt.P00023.entity.Order;
 import java.util.ArrayList;
 import java.util.List;
 import vn.edu.fpt.P00023.bo.BusinessObject;
-import java.io.IOException;
 
 /**
  *
  * @author crazyboy
  */
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         BusinessObject p=new BusinessObject();
         List<Fruit> dbFruit=new ArrayList<>();
         List<Order> dbOrder = new ArrayList<>();
