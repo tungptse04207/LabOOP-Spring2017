@@ -15,5 +15,7 @@ package vn.edu.fpt.P00023.entity
       - Mothod getExistID dùng để validate fruitID đã có trong database hay chưa 
   2. Order.java 
       - Tạo Object Order bao gồm contructor và các method getter, setter
+
 package vn.edu.fpt.P00023.gui
+  1. Main.java 
       - ONLY public static void main(String[] args){}
