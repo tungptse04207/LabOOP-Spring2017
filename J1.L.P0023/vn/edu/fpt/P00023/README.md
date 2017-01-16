@@ -18,4 +18,4 @@ package vn.edu.fpt.P00023.entity
 
 package vn.edu.fpt.P00023.gui
   1. Main.java 
-      - ONLY public static void main(String[] args){}
+      - ONLY public static void main(String[] args){ }
