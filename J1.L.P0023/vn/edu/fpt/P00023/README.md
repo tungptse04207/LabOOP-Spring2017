@@ -17,5 +17,5 @@ package vn.edu.fpt.P00023.entity
       - Tạo Object Order bao gồm contructor và các method getter, setter
 
 package vn.edu.fpt.P00023.gui
-  1. Main.java 
-      - ONLY public static void main(String[] args){ }
+  1. Main.java  
+      - ONLY     public static void main(String[] args) { }
